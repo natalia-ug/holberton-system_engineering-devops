@@ -1,0 +1,1 @@
+Shell, permissions (descrip of what each script is doing)
