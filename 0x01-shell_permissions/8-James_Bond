@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod ug+111 o-111
+chmod 007
